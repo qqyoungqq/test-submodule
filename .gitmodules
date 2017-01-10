@@ -1,0 +1,3 @@
+[submodule "coursera-angularjs"]
+	path = coursera-angularjs
+	url = git@github.com:qqyoungqq/coursera-angularjs.git
